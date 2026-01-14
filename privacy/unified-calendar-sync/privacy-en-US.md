@@ -12,4 +12,4 @@ The app only accesses calendar data that the user explicitly authorizes through 
 
 If you have any questions about this privacy policy, you can contact us at:
 
-📧 skalastudio.app@gmail.com
+📨 [skalastudio.app@gmail.com](mailto:skalastudio.app@gmail.com?subject=Support%20Request)
