@@ -12,4 +12,4 @@ L'app n'accède aux données de calendrier que lorsque l'utilisateur l'autorise 
 
 Si vous avez des questions concernant cette politique de confidentialité, vous pouvez nous contacter à:
 
-📨 [skalastudio.app@gmail.com](mailto:skalastudio.app@gmail.com?subject=Demande%20d%27assistance)
+📨 [skalastudio.apps@gmail.com](mailto:skalastudio.apps@gmail.com?subject=Demande%20d%27assistance)

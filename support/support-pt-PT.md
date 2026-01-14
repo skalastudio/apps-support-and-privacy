@@ -7,7 +7,7 @@ Este repositório fornece informações de suporte para o **Unified Calendar Syn
 
 Se precisar de ajuda, tiver dúvidas ou quiser reportar um problema, contacte-nos por e-mail:
 
-📨 [skalastudio.app@gmail.com](mailto:skalastudio.app@gmail.com?subject=Pedido%20de%20suporte)
+📨 [skalastudio.apps@gmail.com](mailto:skalastudio.apps@gmail.com?subject=Pedido%20de%20suporte)
 
 Quando contactar o suporte, inclua:
 - versão do macOS

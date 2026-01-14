@@ -12,4 +12,4 @@ Die App greift nur auf Kalenderdaten zu, die der Nutzer ausdrücklich über macO
 
 Wenn Sie Fragen zu dieser Datenschutzerklärung haben, können Sie uns kontaktieren unter:
 
-📨 [skalastudio.app@gmail.com](mailto:skalastudio.app@gmail.com?subject=Support-Anfrage)
+📨 [skalastudio.apps@gmail.com](mailto:skalastudio.apps@gmail.com?subject=Support-Anfrage)

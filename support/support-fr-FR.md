@@ -7,7 +7,7 @@ Ce dépôt fournit des informations d'assistance pour **Unified Calendar Sync**,
 
 Si vous avez besoin d'aide, des questions ou souhaitez signaler un problème, contactez-nous par e-mail:
 
-📨 [skalastudio.app@gmail.com](mailto:skalastudio.app@gmail.com?subject=Demande%20d%27assistance)
+📨 [skalastudio.apps@gmail.com](mailto:skalastudio.apps@gmail.com?subject=Demande%20d%27assistance)
 
 Lors de votre contact avec le support, veuillez indiquer:
 - version de macOS
