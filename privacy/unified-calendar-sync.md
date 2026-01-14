@@ -1,4 +1,6 @@
-Privacy Policy
+# Privacy Policy
+
+## Unified Calendar Sync
 
 Unified Calendar Sync does not collect, store, or transmit any personal data.
 
@@ -6,4 +8,8 @@ All calendar data remains on the user’s device and is processed locally using 
 
 The app only accesses calendar data that the user explicitly authorizes through macOS system permissions.
 
-If you have any questions about this privacy policy, you can contact: skalastudio.app@gmail.com
+## Contact
+
+If you have any questions about this privacy policy, you can contact us at:
+
+📧 skalastudio.app@gmail.com
