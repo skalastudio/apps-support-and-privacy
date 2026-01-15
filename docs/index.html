@@ -5,111 +5,89 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta
       name="description"
-      content="Official support and privacy documents for Skala Studio apps, hosted here until the dedicated website launches."
+      content="Skala Studio app pages, support, and privacy policies for App Store Connect."
     />
-    <meta property="og:title" content="Skala Studio Docs" />
+    <meta property="og:title" content="Skala Studio Apps" />
     <meta
       property="og:description"
-      content="Official support and privacy documents for Skala Studio apps."
+      content="Official app pages, support, and privacy policies from Skala Studio."
     />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="resources/skalastudio.png" />
     <meta name="twitter:card" content="summary_large_image" />
-    <title>Skala Studio Docs</title>
+    <title>Skala Studio Apps</title>
     <link rel="stylesheet" href="assets/styles.css" />
   </head>
   <body>
     <header class="topbar">
       <div class="brand">
         <img src="resources/skalastudio.png" alt="Skala Studio logo" />
-        <span>Skala Studio Docs</span>
+        <div>
+          <span class="brand-name">Skala Studio</span>
+          <span class="brand-subtitle">Apps</span>
+        </div>
       </div>
       <nav class="topnav">
-        <a href="#support">Support</a>
-        <a href="#privacy">Privacy</a>
+        <a href="#apps">Apps</a>
+        <a href="support/index.html">Support</a>
       </nav>
     </header>
 
     <main class="page">
-      <section class="hero">
-        <div class="hero-copy">
-          <span class="eyebrow">Skala Studio</span>
-          <h1>Support and privacy documents for our apps.</h1>
+      <section class="apps-section" id="apps">
+        <div class="apps-intro">
+          <span class="eyebrow">Skala Studio Apps</span>
+          <h1>Skala Studio Apps</h1>
           <p class="subtitle">
-            This is the official home for policy and support pages while the dedicated website is in
+            Official app pages, support, and privacy policies while the dedicated website is in
             progress.
           </p>
-          <div class="cta-row">
-            <a class="button primary" href="#support">Open support docs</a>
-            <a class="button ghost" href="#privacy">View privacy policies</a>
+          <div class="contact-card">
+            <span class="contact-label">Contact</span>
+            <a
+              class="contact-email"
+              href="mailto:skalastudio.apps@gmail.com?subject=Support%20Request"
+            >
+              skalastudio.apps@gmail.com
+            </a>
           </div>
         </div>
 
-        <aside class="hero-card">
-          <div class="app-row">
-            <img src="resources/skalastudio.png" alt="Unified Calendar Sync logo" />
-            <div>
+        <div class="app-grid">
+          <article class="app-card">
+            <img
+              class="app-icon"
+              src="apps/unified-calendar-sync/images/unified-calendar-sync-256x256@2x.png"
+              alt="Unified Calendar Sync icon"
+            />
+            <div class="app-info">
               <h2 class="app-title">Unified Calendar Sync</h2>
-              <p class="app-desc">A macOS menu bar app that unifies events across calendars.</p>
+              <p class="app-subtitle">One calendar. Always in sync.</p>
+              <p class="app-overview">
+                Create one reliable calendar from all your accounts. Unified Calendar Sync keeps
+                events updated automatically and privately on your Mac.
+              </p>
+              <div class="app-actions">
+                <a class="button primary" href="apps/unified-calendar-sync/marketing/index.html">
+                  View app details
+                </a>
+              </div>
             </div>
-          </div>
-          <div class="tags">
-            <span class="tag">macOS</span>
-            <span class="tag">Menu Bar</span>
-            <span class="tag">Calendar</span>
-          </div>
-          <div class="quick-links">
-            <a href="support/support-en-US.html">Support (English)</a>
-            <a href="privacy/unified-calendar-sync/privacy-en-US.html">Privacy (English)</a>
-          </div>
-        </aside>
-      </section>
-
-      <section class="section" id="privacy">
-        <div class="section-header">
-          <div>
-            <h2>Privacy Policies</h2>
-            <p>Read how each app handles data, permissions, and local processing.</p>
-          </div>
-        </div>
-        <div class="cards">
-          <article class="card">
-            <h3>Unified Calendar Sync</h3>
-            <p>Localized privacy policy documents.</p>
-            <h4>Available languages</h4>
-            <ul class="link-list">
-              <li><a href="privacy/unified-calendar-sync/privacy-en-US.html">English (US)</a></li>
-              <li><a href="privacy/unified-calendar-sync/privacy-de-DE.html">German (DE)</a></li>
-              <li><a href="privacy/unified-calendar-sync/privacy-fr-FR.html">French (FR)</a></li>
-              <li><a href="privacy/unified-calendar-sync/privacy-pt-PT.html">Portuguese (PT)</a></li>
-            </ul>
           </article>
         </div>
       </section>
 
-      <section class="section" id="support">
-        <div class="section-header">
-          <div>
-            <h2>Support</h2>
-            <p>Find contact details and troubleshooting guidance for each app.</p>
-          </div>
-        </div>
-        <div class="cards">
-          <article class="card">
-            <h3>Unified Calendar Sync</h3>
-            <p>Support pages with contact details per locale.</p>
-            <h4>Available languages</h4>
-            <ul class="link-list">
-              <li><a href="support/support-en-US.html">English (US)</a></li>
-              <li><a href="support/support-de-DE.html">German (DE)</a></li>
-              <li><a href="support/support-fr-FR.html">French (FR)</a></li>
-              <li><a href="support/support-pt-PT.html">Portuguese (PT)</a></li>
-            </ul>
-          </article>
+      <section class="support-callout">
+        <h2 class="section-title">Need help?</h2>
+        <p class="section-lead">
+          Visit the support page for guidance, contact details, and what to include in your request.
+        </p>
+        <div class="app-actions">
+          <a class="button ghost" href="support/index.html">Go to support</a>
         </div>
       </section>
 
-      <footer class="footer">Questions? Use the contact email listed in the support pages.</footer>
+      <footer class="footer">Skala Studio provides support and privacy policies for its apps.</footer>
     </main>
   </body>
 </html>
