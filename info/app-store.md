@@ -15,7 +15,7 @@ The app syncs events from multiple calendar accounts into a user-selected target
 Because events are written into a standard calendar chosen by the user, such as iCloud, synced events remain visible wherever that calendar is accessible.
 It works seamlessly with the calendars already configured on your Mac, including iCloud, Exchange, CalDAV, and subscribed calendars, with all processing done locally.
 
-Key features:
+Key features 1.0.0:
 - Creates a dedicated unified calendar as a single source of truth
 - Syncs events from multiple accounts into one maintained calendar
 - Keeps events visible across devices via the selected target calendar
@@ -25,3 +25,9 @@ Key features:
 - Automatic and manual sync options
 - Menu bar app that is always available and never intrusive
 - Fully local processing with no servers and no tracking
+
+Key features 1.1.0:
+- Added in‑app purchase access control with a free trial for new users.
+- Notifications now open the Calendar app for quick follow‑up.
+- Improved Settings layout and clarity for account/calendar configuration.
+- Better sync feedback and reliability in common setup scenarios.

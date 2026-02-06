@@ -281,6 +281,26 @@ h1 {
   scroll-snap-type: x mandatory;
 }
 
+.screenshots-section {
+  padding: 18px 22px;
+}
+
+.screenshots-section .screenshots-note {
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: var(--muted);
+  margin: 10px 0 0;
+}
+
+.screenshots-section .gallery-grid {
+  margin-top: 8px;
+  padding-bottom: 4px;
+}
+
+.screenshots-section .gallery-item {
+  flex: 0 0 200px;
+}
+
 .gallery-item {
   display: block;
   flex: 0 0 220px;
