@@ -177,6 +177,10 @@ h1 {
   gap: 22px;
 }
 
+.app-grid-stack {
+  grid-template-columns: 1fr;
+}
+
 .app-header {
   display: flex;
   align-items: center;
